@@ -1,1 +1,20 @@
 876400509443-p8mr6gpf9g6ek59nfih3mdoovagmikbl.apps.googleusercontent.com
+
+serverless config credentials --provider aws --key AKIAR22PEP76CTPRQTNR --secret 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
+
+endpoints:
+  GET - https://1acrnwutk4.execute-api.ca-central-1.amazonaws.com/dev/api/get-auth-url
+  GET - https://1acrnwutk4.execute-api.ca-central-1.amazonaws.com/dev/api/token/{code}
+
+  https://mind28.github.io/create-react-app-meetup/?code=4/0AX4XfWi2arnWzUT5yVAZX36yLp58eXbalH7AEhwA4e9Dg9ZihaSI35Ek3DgQM_y93Rp38Q&scope=https://www.googleapis.com/auth/calendar.readonly
+
+module.exports.getCalendarEvents = event => {
+
+  return new Promise((resolve, reject) => { })
+}
+
+
+endpoints:
+  GET - https://1acrnwutk4.execute-api.ca-central-1.amazonaws.com/dev/api/get-auth-url
+  GET - https://1acrnwutk4.execute-api.ca-central-1.amazonaws.com/dev/api/token/{code}
+  GET - https://1acrnwutk4.execute-api.ca-central-1.amazonaws.com/dev/api/get-events/{access_token}
