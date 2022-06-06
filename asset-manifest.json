@@ -1,17 +1,16 @@
 {
   "files": {
     "main.css": "/create-react-app-meetup/static/css/main.073c9b0a.css",
-    "main.js": "/create-react-app-meetup/static/js/main.671d7222.js",
+    "main.js": "/create-react-app-meetup/static/js/main.1709bbaf.js",
     "static/js/787.fd1f0803.chunk.js": "/create-react-app-meetup/static/js/787.fd1f0803.chunk.js",
     "service-worker.js": "/create-react-app-meetup/service-worker.js",
-    "static/media/logo.svg": "/create-react-app-meetup/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
     "index.html": "/create-react-app-meetup/index.html",
     "main.073c9b0a.css.map": "/create-react-app-meetup/static/css/main.073c9b0a.css.map",
-    "main.671d7222.js.map": "/create-react-app-meetup/static/js/main.671d7222.js.map",
+    "main.1709bbaf.js.map": "/create-react-app-meetup/static/js/main.1709bbaf.js.map",
     "787.fd1f0803.chunk.js.map": "/create-react-app-meetup/static/js/787.fd1f0803.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.671d7222.js"
+    "static/js/main.1709bbaf.js"
   ]
 }
